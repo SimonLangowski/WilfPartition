@@ -1,0 +1,10 @@
+(1 terms, block 0)
+Block complete: 0 cpu seconds
+User time: 0 s, 356 ms
+System time: 0 s, 0 ms 
+Maximum resident set size: 8116 bytes
+Page faults: 16 (1097 caught)
+Disk writes out: 114
+Disk reads in: 6
+Voluntary Context Switches: 230
+Other Context Switches: 6

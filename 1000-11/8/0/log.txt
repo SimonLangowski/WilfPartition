@@ -1,0 +1,12 @@
+Process 0 started at time Sat Oct 13 21:00:33 2018
+
+Allocation cycle started: Sat Oct 13 21:00:33 2018
+
+Allocation computation complete: Sat Oct 13 21:00:33 2018
+
+Allocation complete: Sat Oct 13 21:00:33 2018
+
+Good until index 86784
+New Allocation factor is 0.014935
+Allocation cycle started: Sat Oct 13 21:00:33 2018
+

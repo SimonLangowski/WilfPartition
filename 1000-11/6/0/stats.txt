@@ -1,0 +1,20 @@
+(6 terms, block 0)
+Block complete: 1826 cpu seconds
+User time: 1826 s, 728 ms
+System time: 0 s, 760 ms 
+Maximum resident set size: 66864 bytes
+Page faults: 5363 (127054 caught)
+Disk writes out: 31319
+Disk reads in: 6
+Voluntary Context Switches: 39673
+Other Context Switches: 1797
+(6 terms, block 0)
+Block complete: 4842 cpu seconds
+User time: 4841 s, 28 ms
+System time: 1 s, 120 ms 
+Maximum resident set size: 66196 bytes
+Page faults: 13 (147658 caught)
+Disk writes out: 31327
+Disk reads in: 6
+Voluntary Context Switches: 43705
+Other Context Switches: 48855
