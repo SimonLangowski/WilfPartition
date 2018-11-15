@@ -6,7 +6,7 @@ A partition of a positive integer is a representation as a sum of positive integ
 The number of times a number appears in a partition is called its multiplicity, and the numbers themselves are called the bases.  A Wilf Partition is a partition with the property that each number has a distinct multiplicity.  So `6 = 2+2+1+1` is not a Wilf Partition while `6 = 3+1+1+1` is.
 ## The Basic Algorithm
 1. Compute Wilf Partitions where all multiplicities are greater than or equal to a number, defined as CUTOFF in main.h
-2. For each specific set of bases used in part 1, compute Wilf Partitions with bases strictly less than CUTOFF, and that do not overlap with the set of bases from part 1
+2. For each specific set of bases used in part 1, compute Wilf Partitions with multiplicities strictly less than CUTOFF, and that do not overlap with the set of bases from part 1
 3. Multiply the possibilities together.  The FLINT library is used to perform fast polynomial multiplication.
 ## The details
 ### Part 1 implementation:
